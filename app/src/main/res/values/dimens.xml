@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="menu_btn_width">180dp</dimen>
+    <dimen name="display_fragment__hieght">580dp</dimen>
+    <dimen name="btn_width">250dp</dimen>
+</resources>

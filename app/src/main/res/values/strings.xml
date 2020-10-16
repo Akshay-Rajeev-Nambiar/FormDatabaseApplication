@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Form Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insert_data">INSERT DATA</string>
+    <string name="display_data">DISPLAY ALL</string>
+    <string name="search_data">SEARCH</string>
+    <string name="update_data">UPDATE DATA</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dob">Date of Birth</string>
+    <string name="position">Position</string>
+</resources>
